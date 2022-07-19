@@ -1,0 +1,3 @@
+python -m pip install browserstack-local
+python -m pip install pandas
+python -m pip install xlwt
